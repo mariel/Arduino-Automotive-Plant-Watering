@@ -24,7 +24,8 @@ _I didn't found the soil moisture sensor but i've found a placeholder_
   * LCD library
   * Servo library
   
-## Specificatii 
+## Specifications
+  This project goal is to make the chore of watering plants a thing of a past.I could made this device which will help you with watering but there are some downsides. You will need to replenish the cup of water, which is like you just water plants with extra steps.Even the servo is not enough for watering plants, it's not powerful enough.
 ## User Manual
 * You need to download the desired project from Github
 * Open it in a Arduino IDE
