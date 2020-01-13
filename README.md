@@ -23,6 +23,8 @@ _I didn't found the soil moisture sensor but i've found a placeholder_
   * Arduino IDE
   * LCD library
   * Servo library
+  
+## Specificatii 
 ## User Manual
 * You need to download the desired project from Github
 * Open it in a Arduino IDE
