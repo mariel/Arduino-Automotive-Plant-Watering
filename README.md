@@ -33,9 +33,9 @@ _I didn't found the soil moisture sensor but i've found a placeholder_
 * And also you can see the temperature in the room
   *```if ( sensorValue > 850.0)``` the number 850.0 may be changed with something more suitable for your plant, I've worked with nothing but plain soil (it dries faster)
 ## Explanations
-  *For this project to work properly you need to put the moisture sensor all the way down or it won't measure perfectly.
-  *Usually the temperature sensors need adjusments, mine for some reason show the good temperature without changing the value of the sensor readings
-  *I've done an avarage of the values I got from the Soil moisture and temperature sensor for a better accuracy
+  * For this project to work properly you need to put the moisture sensor all the way down or it won't measure perfectly.
+  * Usually the temperature sensors need adjusments, mine for some reason show the good temperature without changing the value of the sensor readings
+  * I've done an avarage of the values I got from the Soil moisture and temperature sensor for a better accuracy
   ### Bibliografy
 * [Soil Moisture Sensor](https://create.arduino.cc/projecthub/electropeak/complete-guide-to-use-soil-moisture-sensor-w-examples-756b1f)
 * [Temperature Sensor](https://learn.adafruit.com/tmp36-temperature-sensor/using-a-temp-sensor)
